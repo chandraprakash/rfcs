@@ -18,7 +18,7 @@ This does mean a change to default behaviour and is, therefore a significant cha
 The primary goal is two fold, reduce network traffic (by removing an indirection, of looking up a value 
 and using that as a key to lookup next) and also to remove complexity (thereby increasing security).
 
-Another facet of this proposal is extendability. In networks such as SAFE for isntance, client app developers can define their own types (say of the `fix` protocol for financial transactions) and instanciate this type on the network. For users creaatign their own network they may whitelist or blacklist types and type_id's as they wish, but the possibility would exist for network builders (of new networks) to allow extensability of types.  
+Another facet of this proposal is extendability. In networks such as SAFE for isntance, client app developers can define their own types (say of the `fix` protocol for financial transactions) and instanciate this type on the network. For users creating their own network they may whitelist or blacklist types and type_id's as they wish, but the possibility would exist for network builders (of new networks) to allow extensability of types.  
 
 ##What cases does it support?
 
