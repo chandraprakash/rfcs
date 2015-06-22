@@ -22,7 +22,7 @@ Another facet of this proposal is extendability. In networks such as SAFE for in
 
 ##What cases does it support?
 
-This change supports all use of non immutable data (structured data). This covers all all non `content only` data
+This change supports all use of non immutable data (structured data). This covers all non `content only` data
 on the network and how it is handled. 
 
 ###Data storage and retrieval
